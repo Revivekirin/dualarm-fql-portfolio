@@ -9,8 +9,8 @@ Flow Q-Learning(FQL), QC-FQL, 그리고 **QC-FQL(+EMA)** 실험 산출물을 **�
 4. (선택) **평가/데모 영상**(mp4/webm) → 성능 질적 비교
 
 >
-> * - 📄 [QC-FQL Research Report (DOCX)]([assets/QC-FQL_Research_Report.pdf](https://github.com/Revivekirin/dualarm-fql-portfolio/blob/main/asset/QC-FQL_Research_Report.pdf))
-> * - 🖼️ [Architecture Diagram (PNG)]([assets/architecture.png](https://github.com/Revivekirin/dualarm-fql-portfolio/blob/main/asset/FQL_archi.png))  
+> * - 📄 [QC-FQL Research Report (DOCX)]([assets/QC-FQL_Research_Report.pdf](asset/QC-FQL_Research_Report.pdf))
+> * - 🖼️ [Architecture Diagram (PNG)]([assets/architecture.png](asset/FQL_archi.png))  
 
 > **Google Drive Shared Dataset**  
 > The trained robot datasets (including exported learning curves, BC-flow vector fields, and teacher–student embeddings)  
@@ -35,7 +35,7 @@ Flow Q-Learning(FQL), QC-FQL, 그리고 **QC-FQL(+EMA)** 실험 산출물을 **�
 
 ## 데모 스크린샷(예시)
 
-* ![Architecture]([assets/FQL_archi.png](https://github.com/Revivekirin/dualarm-fql-portfolio/blob/main/asset/FQL_archi.png))
+* ![Architecture]([assets/FQL_archi.png](asset/FQL_archi.png))
   *QC-FQL(+EMA) 개념도: Flow teacher + Student actor, Chunked critic, EMA target actor/critic 구성*
 
 ---
